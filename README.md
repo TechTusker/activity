@@ -1,6 +1,6 @@
 # SmartCycle: AI-Powered Waste Management ♻️
 
-![SmartCycle Logo]([https://d12aarmt01l54a.cloudfront.net/cms/images/UserMedia-20240522153951/1224-400.png]) 
+![SmartCycle Logo]([808-440.png]) 
 
 ## Table of Contents
 
