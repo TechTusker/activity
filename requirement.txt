@@ -1,0 +1,40 @@
+# Core Web Framework (Choose ONE - uncomment your choice)
+# Flask and its common extensions if you're using Flask
+# Flask==2.3.2
+# Flask-SQLAlchemy==3.1.1
+# Flask-Migrate==4.0.5
+# Flask-CORS==4.0.0  # Useful for frontend/backend communication
+
+# Django if you're using Django
+Django==5.0.6
+
+# Database Drivers (Choose based on your database - uncomment your choice)
+# For PostgreSQL
+psycopg2-binary==2.9.9
+
+# For MongoDB
+# pymongo==4.7.1
+
+# AI/Machine Learning
+tensorflow==2.16.1  # Or 'torch' for PyTorch, ensure CUDA enabled versions if needed
+# opencv-python==4.9.0.80  # For computer vision tasks
+scikit-learn==1.5.0 # For general machine learning utilities
+
+# Data Handling and Scientific Computing
+numpy==1.26.4
+pandas==2.2.2
+
+# IoT Communication
+paho-mqtt==1.6.1 # For MQTT communication with IoT devices
+
+# Environment Variables Management
+python-dotenv==1.0.1 # For managing environment variables (e.g., API keys, database URLs)
+
+# HTTP Requests (if your backend needs to make external API calls)
+requests==2.32.3
+
+# Production WSGI Server (Recommended for deploying Flask/Django apps)
+gunicorn==22.0.0
+
+# Image processing specific
+# pillow==10.3.0 # Often a dependency of other libraries, good to include explicitly
