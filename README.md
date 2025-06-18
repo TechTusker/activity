@@ -63,7 +63,7 @@ To get a local copy up and running follow these simple steps.
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/your-username/smartcycle.git](https://github.com/your-username/smartcycle.git)
+    git clone [https://github.com/TechTusker/smartcycle.git](https://github.com/your-username/smartcycle.git)
     cd smartcycle
     ```
 
